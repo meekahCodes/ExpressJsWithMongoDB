@@ -1,0 +1,19 @@
+1. REST - https://www.youtube.com/watch?v=lsMQRaeKNDk
+2. Micro Services - https://www.youtube.com/watch?v=j1gU2oGFayY
+3. Node JS - Express JS - MongoDB - Mongoose
+4. Create a small Services - Backend. eg : Users - Serve list of users, or a specific user, delete a user, update user, create a user
+5. Create another small service which talks to Users service : Orders - Get all orders of all users. Get orders of a specific user by ID. Get orders of a specific user by name 
+6. Simple Frontend - React - Talk to both backend Services
+
+
+:8081 - Users
+:8082 - Orders                  
+:8080 - frontend
+
+
+
+Phase 2.
+1. Use a API Gateway
+2. Deploy services in AWS (Study AWS)
+3. Containerize Services (Study Docker)
+3. Run all as containers 
